@@ -1,1 +1,0 @@
-Una vez hechos los cambios pertinentes en la carpeta, es decir, añadiendo un archivo de texto, la carpeta deje de estar vacia, por lo tanto GitHub permite hacer el commit y subirla.
